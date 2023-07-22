@@ -31,19 +31,9 @@
             key-positions = <2 3>;
         };
 
-        ctrl {
-            bindings = <&kp LCTRL>;
-            key-positions = <26 27>;
-        };
-
-        shift {
-            bindings = <&kp LSHIFT>;
-            key-positions = <8 9>;
-        };
-
         delete {
-            bindings = <&kp DEL>;
-            key-positions = <32 33>;
+            bindings = <&kp DELETE>;
+            key-positions = <8 9>;
         };
     };
 
